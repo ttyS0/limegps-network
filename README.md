@@ -40,7 +40,7 @@ Under the project root, running the `gps-simulator`:
 npm start
 ```
 
-Visit http://127.0.0.1:8084 and enjoy.
+Visit http://127.0.0.1:8081 and enjoy.
 
 
 
