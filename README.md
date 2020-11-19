@@ -46,7 +46,9 @@ Visit http://127.0.0.1:8081 and enjoy.
 
 Supported formats: `csv`, `kml`
 
-Notes when importing `csv`:
+---
+
+Notes on importing `csv`:
 
 Parser will only look for first 2 items in each line, and latitude should be the first:
 
